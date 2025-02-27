@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://static.wikia.nocookie.net/aceattorney/images/9/98/Jake_Normal_1.gif/revision/latest?cb=20120916141601" width="1000" height="750">
 
 <!--
 **Arknov/Arknov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
